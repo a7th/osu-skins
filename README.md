@@ -6,40 +6,40 @@ A collection of osu! skins with screenshots for quick previewing.
 
 - !!! krugi X Shoj minecraft (krugi X Shoj edit)
   - [Download](<!!! krugi X Shoj minecraft (krugi X Shoj edit).osk>)
-  - ![Screenshot](<assets/!!! krugi X Shoj minecraft (krugi X Shoj edit).png>)
+  - ![Screenshot](assets/krugi-x-shoj-minecraft-krugi-x-shoj-edit.png)
 
-- # Cirno-V2.0 white (bulletgun)] (Blulletgun)
+- Cirno V2.0 white (bulletgun)
   - [Download](<-          # Cirno-V2.0 white (bulletgun)] (Blulletgun).osk>)
-  - ![Screenshot](<assets/-          # Cirno-V2.0 white (bulletgun)] (Blulletgun).png>)
+  - ![Screenshot](assets/cirno-v2-0-white-bulletgun-blulletgun.png)
 
-- # Cirnoo blue [cirnoo] (-Dareka-)
+- Cirnoo blue
   - [Download](<-          # Cirnoo blue [cirnoo] (-Dareka-).osk>)
-  - ![Screenshot](<assets/-          # Cirnoo blue [cirnoo] (-Dareka-).png>)
+  - ![Screenshot](assets/cirnoo-blue-cirnoo-dareka.png)
 
-- 《CK》 Bacon boi 1.0 (cyperdark)
+- CK Bacon boi 1.0
   - [Download](<-         《CK》 Bacon boi 1.0 (cyperdark).osk>)
-  - ![Screenshot](<assets/-         《CK》 Bacon boi 1.0 (cyperdark).png>)
+  - ![Screenshot](assets/ck-bacon-boi-1-0-cyperdark.png)
 
-- 《CK》e1rb [vaxei] (cyperdark)
+- CK e1rb vaxei
   - [Download](<-         《CK》e1rb [vaxei] (cyperdark).osk>)
-  - ![Screenshot](<assets/-         《CK》e1rb [vaxei] (cyperdark).png>)
+  - ![Screenshot](assets/ck-e1rb-vaxei-cyperdark.png)
 
-- 《CK》e1rb [vaxei] blue (cyperdark)
+- CK e1rb vaxei blue
   - [Download](<-         《CK》e1rb [vaxei] blue (cyperdark).osk>)
-  - ![Screenshot](<assets/-         《CK》e1rb [vaxei] blue (cyperdark).png>)
+  - ![Screenshot](assets/ck-e1rb-vaxei-blue-cyperdark.png)
 
-- Aristia(Edit) + mReKk [Aristia(Edit) + mrekk] ([Garin] + Aristia + Various)
+- Aristia Edit + mReKk
   - [Download](<Aristia(Edit) + mReKk [Aristia(Edit) + mrekk] ([Garin] + Aristia + Various).osk>)
-  - ![Screenshot](<assets/Aristia(Edit) + mReKk [Aristia(Edit) + mrekk] ([Garin] + Aristia + Various).png>)
+  - ![Screenshot](assets/aristia-edit-mrekk-aristia-edit-mrekk-garin-aristia-various.png)
 
-- ProjHua [DT] (KoTeKoTa228  _Bronya_Zaychik)
+- ProjHua DT
   - [Download](<ProjHua [DT] (KoTeKoTa228  _Bronya_Zaychik).osk>)
-  - ![Screenshot](<assets/ProjHua [DT] (KoTeKoTa228  _Bronya_Zaychik).png>)
+  - ![Screenshot](assets/projhua-dt-kotekota228-bronya-zaychik.png)
 
-- Rafis HDDT (vaxei ver.) (DDK RPK)
+- Rafis HDDT
   - [Download](<Rafis HDDT (vaxei ver.) (DDK RPK).osk>)
-  - ![Screenshot](<assets/Rafis HDDT (vaxei ver.) (DDK RPK).png>)
+  - ![Screenshot](assets/rafis-hddt-vaxei-ver-ddk-rpk.png)
 
-- vaxei dt blue (Fatal3ty)
+- Vaxei DT blue
   - [Download](<vaxei dt blue (Fatal3ty).osk>)
-  - ![Screenshot](<assets/vaxei dt blue (Fatal3ty).png>)
+  - ![Screenshot](assets/vaxei-dt-blue-fatal3ty.png)
