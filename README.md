@@ -4,25 +4,21 @@ A collection of osu! skins with screenshots for quick previewing.
 
 ## Skins
 
-- !!! krugi X Shoj minecraft (krugi X Shoj edit)
-  - [Download](<!!! krugi X Shoj minecraft (krugi X Shoj edit).osk>)
-  - ![Screenshot](assets/krugi-x-shoj-minecraft-krugi-x-shoj-edit.png)
-
-- Cirno V2.0 white (bulletgun)
-  - [Download](<-          # Cirno-V2.0 white (bulletgun)] (Blulletgun).osk>)
-  - ![Screenshot](assets/cirno-v2-0-white-bulletgun-blulletgun.png)
+- CK e1rb vaxei
+  - [Download](<-         《CK》e1rb [vaxei] (cyperdark).osk>)
+  - ![Screenshot](assets/ck-e1rb-vaxei-cyperdark.png)
 
 - Cirnoo blue
   - [Download](<-          # Cirnoo blue [cirnoo] (-Dareka-).osk>)
   - ![Screenshot](assets/cirnoo-blue-cirnoo-dareka.png)
 
+- Cirno V2.0 white (bulletgun)
+  - [Download](<-          # Cirno-V2.0 white (bulletgun)] (Blulletgun).osk>)
+  - ![Screenshot](assets/cirno-v2-0-white-bulletgun-blulletgun.png)
+
 - CK Bacon boi 1.0
   - [Download](<-         《CK》 Bacon boi 1.0 (cyperdark).osk>)
   - ![Screenshot](assets/ck-bacon-boi-1-0-cyperdark.png)
-
-- CK e1rb vaxei
-  - [Download](<-         《CK》e1rb [vaxei] (cyperdark).osk>)
-  - ![Screenshot](assets/ck-e1rb-vaxei-cyperdark.png)
 
 - CK e1rb vaxei blue
   - [Download](<-         《CK》e1rb [vaxei] blue (cyperdark).osk>)
@@ -43,3 +39,8 @@ A collection of osu! skins with screenshots for quick previewing.
 - Vaxei DT blue
   - [Download](<vaxei dt blue (Fatal3ty).osk>)
   - ![Screenshot](assets/vaxei-dt-blue-fatal3ty.png)
+
+- !!! krugi X Shoj minecraft (krugi X Shoj edit)
+  - [Download](<!!! krugi X Shoj minecraft (krugi X Shoj edit).osk>)
+  - ![Screenshot](assets/krugi-x-shoj-minecraft-krugi-x-shoj-edit.png)
+
